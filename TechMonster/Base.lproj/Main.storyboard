@@ -78,7 +78,7 @@
                         <outlet property="levelLabel" destination="mlu-WK-kbe" id="0hD-0F-UbC"/>
                         <outlet property="nameLabel" destination="C6Q-rH-BXi" id="jtW-rg-WsT"/>
                         <outlet property="staminaBar" destination="Gmz-XH-z8Y" id="EJ8-NU-MNa"/>
-                        <segue destination="fIN-TY-Af1" kind="presentation" id="TDH-HY-Wbp"/>
+                        <segue destination="fIN-TY-Af1" kind="presentation" identifier="startButtle" id="TDH-HY-Wbp"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
